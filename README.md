@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cariph
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning C in Embedded Systems Applications on Linux
+- 🌱 I’m currently learning C for Embedded Devices on Linux
 - 💞️ I’m looking to collaborate on Embedded Systems projects
 - 📫 How to reach me cariphxbabu@gmail.com
 - 😄 Pronouns: He/Him
